@@ -1,0 +1,301 @@
+employee_id,employee_name,role,practice,location,hourly_cost,hire_date
+E100,Employee_100,Consultant,Risk,India,28,2019-02-02
+E101,Employee_101,Manager,Audit,India,70,2019-02-24
+E102,Employee_102,Consultant,Audit,UK,28,2019-03-08
+E103,Employee_103,Analyst,Audit,US,18,2019-07-23
+E104,Employee_104,Manager,Consulting,UK,70,2019-04-19
+E105,Employee_105,Analyst,Risk,UK,18,2019-07-25
+E106,Employee_106,Senior Consultant,Audit,US,45,2019-09-30
+E107,Employee_107,Manager,Risk,US,70,2019-07-26
+E108,Employee_108,Senior Consultant,Consulting,India,45,2019-05-25
+E109,Employee_109,Senior Consultant,Risk,US,45,2019-10-17
+E110,Employee_110,Consultant,Audit,India,28,2019-08-24
+E111,Employee_111,Analyst,Consulting,UK,18,2019-08-22
+E112,Employee_112,Consultant,Consulting,India,28,2019-06-18
+E113,Employee_113,Manager,Risk,UK,70,2019-07-03
+E114,Employee_114,Consultant,Risk,US,28,2019-08-20
+E115,Employee_115,Analyst,Consulting,UK,18,2019-08-23
+E116,Employee_116,Senior Consultant,Audit,India,45,2019-08-19
+E117,Employee_117,Consultant,Consulting,UK,28,2019-09-24
+E118,Employee_118,Analyst,Risk,US,18,2019-09-12
+E119,Employee_119,Consultant,Audit,US,28,2019-04-14
+E120,Employee_120,Manager,Risk,UK,70,2019-03-24
+E121,Employee_121,Senior Consultant,Audit,India,45,2019-03-13
+E122,Employee_122,Analyst,Consulting,US,18,2019-09-14
+E123,Employee_123,Analyst,Consulting,India,18,2019-10-07
+E124,Employee_124,Senior Consultant,Audit,India,45,2019-05-10
+E125,Employee_125,Consultant,Risk,US,28,2019-02-03
+E126,Employee_126,Senior Consultant,Consulting,India,45,2019-09-08
+E127,Employee_127,Consultant,Risk,India,28,2019-07-26
+E128,Employee_128,Consultant,Risk,India,28,2019-01-06
+E129,Employee_129,Consultant,Consulting,US,28,2019-02-04
+E130,Employee_130,Analyst,Consulting,UK,18,2019-01-25
+E131,Employee_131,Consultant,Consulting,US,28,2019-03-03
+E132,Employee_132,Senior Consultant,Risk,UK,45,2019-05-02
+E133,Employee_133,Analyst,Audit,India,18,2019-03-26
+E134,Employee_134,Consultant,Audit,UK,28,2019-01-10
+E135,Employee_135,Consultant,Risk,UK,28,2019-03-17
+E136,Employee_136,Consultant,Risk,UK,28,2019-07-27
+E137,Employee_137,Manager,Audit,UK,70,2019-03-29
+E138,Employee_138,Analyst,Audit,India,18,2019-09-28
+E139,Employee_139,Analyst,Audit,US,18,2019-10-02
+E140,Employee_140,Analyst,Consulting,India,18,2020-10-16
+E141,Employee_141,Consultant,Risk,UK,28,2020-04-08
+E142,Employee_142,Senior Consultant,Risk,US,45,2020-03-22
+E143,Employee_143,Analyst,Risk,UK,18,2020-05-22
+E144,Employee_144,Analyst,Risk,US,18,2020-08-28
+E145,Employee_145,Senior Consultant,Audit,US,45,2020-01-10
+E146,Employee_146,Consultant,Consulting,India,28,2020-04-09
+E147,Employee_147,Senior Consultant,Risk,UK,45,2020-07-22
+E148,Employee_148,Consultant,Audit,US,28,2020-06-12
+E149,Employee_149,Manager,Risk,India,70,2020-08-26
+E150,Employee_150,Analyst,Risk,US,18,2020-06-29
+E151,Employee_151,Manager,Risk,India,70,2020-10-08
+E152,Employee_152,Manager,Audit,UK,70,2020-05-21
+E153,Employee_153,Analyst,Risk,India,18,2020-08-10
+E154,Employee_154,Analyst,Consulting,UK,18,2020-10-23
+E155,Employee_155,Manager,Audit,India,70,2020-05-26
+E156,Employee_156,Senior Consultant,Consulting,US,45,2020-03-19
+E157,Employee_157,Analyst,Consulting,India,18,2020-03-14
+E158,Employee_158,Manager,Risk,US,70,2020-07-19
+E159,Employee_159,Senior Consultant,Risk,US,45,2020-09-18
+E160,Employee_160,Manager,Audit,India,70,2020-10-13
+E161,Employee_161,Consultant,Consulting,US,28,2020-06-03
+E162,Employee_162,Analyst,Consulting,US,18,2020-10-16
+E163,Employee_163,Analyst,Consulting,UK,18,2020-04-16
+E164,Employee_164,Manager,Risk,UK,70,2020-01-22
+E165,Employee_165,Manager,Risk,US,70,2020-02-25
+E166,Employee_166,Senior Consultant,Audit,US,45,2020-03-05
+E167,Employee_167,Manager,Audit,US,70,2020-08-28
+E168,Employee_168,Manager,Consulting,US,70,2020-05-02
+E169,Employee_169,Senior Consultant,Audit,US,45,2020-04-10
+E170,Employee_170,Analyst,Audit,US,18,2020-06-30
+E171,Employee_171,Analyst,Consulting,UK,18,2020-08-02
+E172,Employee_172,Consultant,Consulting,UK,28,2020-07-03
+E173,Employee_173,Senior Consultant,Consulting,India,45,2020-02-07
+E174,Employee_174,Analyst,Audit,India,18,2020-03-08
+E175,Employee_175,Consultant,Consulting,UK,28,2020-09-11
+E176,Employee_176,Manager,Risk,US,70,2020-04-30
+E177,Employee_177,Analyst,Consulting,UK,18,2020-03-29
+E178,Employee_178,Analyst,Risk,India,18,2020-09-10
+E179,Employee_179,Analyst,Consulting,US,18,2020-03-09
+E180,Employee_180,Manager,Risk,UK,70,2020-09-24
+E181,Employee_181,Manager,Risk,India,70,2020-10-13
+E182,Employee_182,Consultant,Consulting,India,28,2020-02-06
+E183,Employee_183,Senior Consultant,Consulting,UK,45,2020-03-19
+E184,Employee_184,Manager,Risk,US,70,2021-06-05
+E185,Employee_185,Senior Consultant,Audit,UK,45,2021-06-17
+E186,Employee_186,Consultant,Consulting,US,28,2021-01-15
+E187,Employee_187,Manager,Audit,US,70,2021-06-09
+E188,Employee_188,Analyst,Audit,UK,18,2021-10-18
+E189,Employee_189,Analyst,Risk,India,18,2021-10-08
+E190,Employee_190,Consultant,Risk,India,28,2021-09-15
+E191,Employee_191,Consultant,Consulting,UK,28,2021-08-05
+E192,Employee_192,Senior Consultant,Consulting,India,45,2021-06-16
+E193,Employee_193,Senior Consultant,Risk,India,45,2021-08-22
+E194,Employee_194,Analyst,Risk,UK,18,2021-08-03
+E195,Employee_195,Consultant,Consulting,India,28,2021-09-13
+E196,Employee_196,Analyst,Risk,India,18,2021-08-05
+E197,Employee_197,Senior Consultant,Risk,US,45,2021-01-06
+E198,Employee_198,Senior Consultant,Risk,US,45,2021-02-16
+E199,Employee_199,Consultant,Audit,UK,28,2021-02-21
+E200,Employee_200,Manager,Risk,US,70,2021-09-10
+E201,Employee_201,Senior Consultant,Consulting,UK,45,2021-02-09
+E202,Employee_202,Analyst,Consulting,UK,18,2021-09-20
+E203,Employee_203,Manager,Audit,US,70,2021-07-12
+E204,Employee_204,Consultant,Audit,India,28,2021-06-27
+E205,Employee_205,Analyst,Risk,India,18,2021-07-28
+E206,Employee_206,Manager,Audit,India,70,2021-08-28
+E207,Employee_207,Analyst,Audit,UK,18,2021-09-02
+E208,Employee_208,Manager,Consulting,US,70,2021-06-20
+E209,Employee_209,Manager,Consulting,India,70,2021-05-28
+E210,Employee_210,Analyst,Risk,UK,18,2021-06-26
+E211,Employee_211,Analyst,Audit,India,18,2021-07-14
+E212,Employee_212,Manager,Audit,US,70,2021-06-09
+E213,Employee_213,Manager,Audit,US,70,2021-07-23
+E214,Employee_214,Analyst,Consulting,India,18,2021-01-30
+E215,Employee_215,Consultant,Audit,US,28,2021-04-02
+E216,Employee_216,Manager,Risk,UK,70,2021-09-13
+E217,Employee_217,Manager,Audit,UK,70,2021-04-28
+E218,Employee_218,Analyst,Consulting,UK,18,2021-06-09
+E219,Employee_219,Senior Consultant,Consulting,UK,45,2021-03-26
+E220,Employee_220,Analyst,Audit,UK,18,2021-02-15
+E221,Employee_221,Senior Consultant,Risk,US,45,2021-02-05
+E222,Employee_222,Senior Consultant,Audit,UK,45,2021-02-20
+E223,Employee_223,Consultant,Consulting,India,28,2021-04-16
+E224,Employee_224,Senior Consultant,Risk,UK,45,2021-01-07
+E225,Employee_225,Senior Consultant,Audit,India,45,2021-04-26
+E226,Employee_226,Senior Consultant,Consulting,India,45,2021-09-30
+E227,Employee_227,Consultant,Risk,UK,28,2021-06-16
+E228,Employee_228,Analyst,Risk,US,18,2021-04-04
+E229,Employee_229,Manager,Audit,India,70,2021-09-06
+E230,Employee_230,Manager,Risk,India,70,2021-01-16
+E231,Employee_231,Consultant,Consulting,US,28,2021-05-25
+E232,Employee_232,Analyst,Risk,UK,18,2022-04-19
+E233,Employee_233,Manager,Consulting,India,70,2022-03-30
+E234,Employee_234,Senior Consultant,Consulting,India,45,2022-04-09
+E235,Employee_235,Manager,Risk,India,70,2022-06-27
+E236,Employee_236,Analyst,Audit,US,18,2022-01-17
+E237,Employee_237,Senior Consultant,Consulting,India,45,2022-04-03
+E238,Employee_238,Consultant,Risk,India,28,2022-07-17
+E239,Employee_239,Consultant,Risk,US,28,2022-01-22
+E240,Employee_240,Consultant,Consulting,India,28,2022-06-18
+E241,Employee_241,Manager,Risk,India,70,2022-06-25
+E242,Employee_242,Analyst,Audit,UK,18,2022-07-18
+E243,Employee_243,Consultant,Consulting,India,28,2022-09-18
+E244,Employee_244,Senior Consultant,Audit,India,45,2022-05-26
+E245,Employee_245,Consultant,Audit,UK,28,2022-05-19
+E246,Employee_246,Analyst,Consulting,US,18,2022-02-01
+E247,Employee_247,Analyst,Risk,UK,18,2022-02-17
+E248,Employee_248,Senior Consultant,Risk,US,45,2022-05-14
+E249,Employee_249,Manager,Audit,India,70,2022-06-04
+E250,Employee_250,Senior Consultant,Risk,UK,45,2022-09-28
+E251,Employee_251,Analyst,Consulting,UK,18,2022-01-14
+E252,Employee_252,Senior Consultant,Risk,India,45,2022-04-20
+E253,Employee_253,Manager,Consulting,UK,70,2022-06-01
+E254,Employee_254,Senior Consultant,Risk,India,45,2022-02-08
+E255,Employee_255,Consultant,Consulting,India,28,2022-06-14
+E256,Employee_256,Analyst,Consulting,US,18,2022-05-28
+E257,Employee_257,Senior Consultant,Consulting,India,45,2022-03-26
+E258,Employee_258,Senior Consultant,Consulting,UK,45,2022-09-06
+E259,Employee_259,Manager,Audit,India,70,2022-10-14
+E260,Employee_260,Manager,Consulting,India,70,2022-01-17
+E261,Employee_261,Analyst,Audit,India,18,2022-09-16
+E262,Employee_262,Senior Consultant,Consulting,US,45,2022-03-23
+E263,Employee_263,Manager,Audit,India,70,2022-07-23
+E264,Employee_264,Consultant,Audit,UK,28,2022-02-14
+E265,Employee_265,Senior Consultant,Audit,UK,45,2022-06-13
+E266,Employee_266,Analyst,Risk,UK,18,2022-07-08
+E267,Employee_267,Consultant,Audit,UK,28,2022-06-06
+E268,Employee_268,Consultant,Consulting,UK,28,2022-05-26
+E269,Employee_269,Analyst,Audit,UK,18,2022-10-03
+E270,Employee_270,Manager,Risk,US,70,2022-10-05
+E271,Employee_271,Consultant,Consulting,US,28,2022-01-04
+E272,Employee_272,Senior Consultant,Risk,US,45,2022-08-29
+E273,Employee_273,Analyst,Audit,US,18,2022-03-23
+E274,Employee_274,Analyst,Consulting,UK,18,2022-07-14
+E275,Employee_275,Manager,Consulting,UK,70,2022-03-17
+E276,Employee_276,Manager,Consulting,India,70,2022-03-02
+E277,Employee_277,Analyst,Audit,UK,18,2022-05-08
+E278,Employee_278,Senior Consultant,Consulting,US,45,2022-08-12
+E279,Employee_279,Consultant,Risk,India,28,2022-07-10
+E280,Employee_280,Analyst,Audit,UK,18,2022-02-26
+E281,Employee_281,Consultant,Audit,US,28,2022-07-16
+E282,Employee_282,Manager,Risk,UK,70,2022-05-01
+E283,Employee_283,Analyst,Consulting,India,18,2022-10-04
+E284,Employee_284,Consultant,Consulting,India,28,2023-10-02
+E285,Employee_285,Senior Consultant,Consulting,India,45,2023-08-08
+E286,Employee_286,Analyst,Consulting,UK,18,2023-02-14
+E287,Employee_287,Consultant,Consulting,UK,28,2023-08-30
+E288,Employee_288,Manager,Audit,India,70,2023-06-12
+E289,Employee_289,Analyst,Risk,US,18,2023-01-23
+E290,Employee_290,Analyst,Audit,India,18,2023-02-22
+E291,Employee_291,Manager,Consulting,US,70,2023-03-18
+E292,Employee_292,Analyst,Audit,India,18,2023-02-08
+E293,Employee_293,Analyst,Risk,US,18,2023-03-14
+E294,Employee_294,Consultant,Consulting,US,28,2023-03-06
+E295,Employee_295,Consultant,Audit,India,28,2023-09-16
+E296,Employee_296,Senior Consultant,Audit,UK,45,2023-03-01
+E297,Employee_297,Senior Consultant,Consulting,US,45,2023-04-11
+E298,Employee_298,Manager,Audit,India,70,2023-04-26
+E299,Employee_299,Consultant,Audit,India,28,2023-06-22
+E300,Employee_300,Senior Consultant,Risk,India,45,2023-03-30
+E301,Employee_301,Manager,Consulting,UK,70,2023-04-17
+E302,Employee_302,Consultant,Audit,UK,28,2023-02-22
+E303,Employee_303,Manager,Consulting,US,70,2023-04-29
+E304,Employee_304,Analyst,Consulting,India,18,2023-02-23
+E305,Employee_305,Senior Consultant,Audit,UK,45,2023-09-18
+E306,Employee_306,Analyst,Risk,US,18,2023-10-04
+E307,Employee_307,Senior Consultant,Risk,UK,45,2023-03-27
+E308,Employee_308,Consultant,Audit,UK,28,2023-02-22
+E309,Employee_309,Analyst,Risk,US,18,2023-06-19
+E310,Employee_310,Analyst,Audit,US,18,2023-07-18
+E311,Employee_311,Senior Consultant,Consulting,US,45,2023-03-01
+E312,Employee_312,Consultant,Audit,India,28,2023-02-09
+E313,Employee_313,Senior Consultant,Risk,India,45,2023-08-07
+E314,Employee_314,Senior Consultant,Risk,US,45,2023-05-22
+E315,Employee_315,Analyst,Audit,US,18,2023-01-28
+E316,Employee_316,Consultant,Risk,India,28,2023-05-18
+E317,Employee_317,Manager,Consulting,UK,70,2023-02-18
+E318,Employee_318,Consultant,Audit,India,28,2023-05-01
+E319,Employee_319,Manager,Audit,India,70,2023-05-15
+E320,Employee_320,Manager,Consulting,UK,70,2023-07-31
+E321,Employee_321,Manager,Audit,India,70,2023-06-27
+E322,Employee_322,Analyst,Audit,India,18,2023-02-03
+E323,Employee_323,Consultant,Consulting,US,28,2023-09-14
+E324,Employee_324,Manager,Risk,US,70,2023-09-25
+E325,Employee_325,Senior Consultant,Consulting,UK,45,2023-01-20
+E326,Employee_326,Analyst,Risk,UK,18,2023-02-08
+E327,Employee_327,Consultant,Audit,India,28,2023-01-12
+E328,Employee_328,Consultant,Consulting,US,28,2023-01-25
+E329,Employee_329,Analyst,Audit,UK,18,2023-01-19
+E330,Employee_330,Manager,Risk,India,70,2023-08-26
+E331,Employee_331,Analyst,Audit,UK,18,2023-01-13
+E332,Employee_332,Senior Consultant,Consulting,India,45,2023-06-09
+E333,Employee_333,Consultant,Risk,UK,28,2023-10-22
+E334,Employee_334,Analyst,Risk,US,18,2023-01-17
+E335,Employee_335,Manager,Consulting,US,70,2023-03-17
+E336,Employee_336,Analyst,Consulting,US,18,2023-01-16
+E337,Employee_337,Manager,Risk,UK,70,2023-05-07
+E338,Employee_338,Manager,Audit,US,70,2023-09-24
+E339,Employee_339,Senior Consultant,Risk,UK,45,2023-07-26
+E340,Employee_340,Manager,Audit,India,70,2024-07-05
+E341,Employee_341,Senior Consultant,Audit,India,45,2024-03-17
+E342,Employee_342,Senior Consultant,Risk,US,45,2024-03-14
+E343,Employee_343,Analyst,Risk,UK,18,2024-04-22
+E344,Employee_344,Senior Consultant,Risk,India,45,2024-08-10
+E345,Employee_345,Consultant,Audit,UK,28,2024-01-15
+E346,Employee_346,Analyst,Consulting,India,18,2024-09-28
+E347,Employee_347,Consultant,Consulting,US,28,2024-06-08
+E348,Employee_348,Manager,Consulting,India,70,2024-08-15
+E349,Employee_349,Analyst,Audit,US,18,2024-02-29
+E350,Employee_350,Analyst,Risk,US,18,2024-03-06
+E351,Employee_351,Analyst,Consulting,India,18,2024-10-08
+E352,Employee_352,Manager,Risk,US,70,2024-05-25
+E353,Employee_353,Consultant,Risk,US,28,2024-10-11
+E354,Employee_354,Analyst,Risk,UK,18,2024-01-20
+E355,Employee_355,Manager,Consulting,US,70,2024-08-02
+E356,Employee_356,Consultant,Consulting,US,28,2024-05-04
+E357,Employee_357,Senior Consultant,Risk,India,45,2024-04-10
+E358,Employee_358,Consultant,Audit,India,28,2024-07-16
+E359,Employee_359,Analyst,Audit,US,18,2024-06-03
+E360,Employee_360,Senior Consultant,Audit,UK,45,2024-03-24
+E361,Employee_361,Analyst,Audit,US,18,2024-04-02
+E362,Employee_362,Manager,Audit,UK,70,2024-08-19
+E363,Employee_363,Consultant,Consulting,India,28,2024-01-06
+E364,Employee_364,Manager,Consulting,India,70,2024-06-10
+E365,Employee_365,Analyst,Consulting,US,18,2024-07-29
+E366,Employee_366,Analyst,Risk,US,18,2024-05-28
+E367,Employee_367,Manager,Risk,US,70,2024-02-19
+E368,Employee_368,Manager,Consulting,US,70,2024-09-16
+E369,Employee_369,Manager,Consulting,US,70,2024-04-15
+E370,Employee_370,Manager,Consulting,UK,70,2024-04-25
+E371,Employee_371,Manager,Consulting,UK,70,2024-07-23
+E372,Employee_372,Manager,Risk,India,70,2024-07-23
+E373,Employee_373,Analyst,Consulting,US,18,2024-06-13
+E374,Employee_374,Consultant,Consulting,US,28,2024-04-20
+E375,Employee_375,Senior Consultant,Consulting,UK,45,2024-07-18
+E376,Employee_376,Analyst,Risk,UK,18,2024-03-24
+E377,Employee_377,Consultant,Risk,UK,28,2024-08-18
+E378,Employee_378,Analyst,Audit,UK,18,2024-10-01
+E379,Employee_379,Senior Consultant,Audit,India,45,2024-03-15
+E380,Employee_380,Consultant,Audit,UK,28,2024-08-23
+E381,Employee_381,Manager,Consulting,India,70,2024-05-10
+E382,Employee_382,Analyst,Risk,India,18,2024-04-16
+E383,Employee_383,Analyst,Consulting,UK,18,2024-06-13
+E384,Employee_384,Consultant,Risk,UK,28,2024-10-22
+E385,Employee_385,Senior Consultant,Audit,UK,45,2024-03-13
+E386,Employee_386,Manager,Audit,UK,70,2024-06-12
+E387,Employee_387,Manager,Consulting,UK,70,2024-07-09
+E388,Employee_388,Consultant,Audit,UK,28,2024-06-29
+E389,Employee_389,Consultant,Audit,US,28,2024-04-19
+E390,Employee_390,Analyst,Audit,India,18,2024-05-31
+E391,Employee_391,Manager,Audit,US,70,2024-01-10
+E392,Employee_392,Manager,Audit,India,70,2024-09-28
+E393,Employee_393,Manager,Consulting,India,70,2024-04-18
+E394,Employee_394,Analyst,Audit,UK,18,2024-08-15
+E395,Employee_395,Consultant,Risk,India,28,2024-06-17
+E396,Employee_396,Senior Consultant,Audit,India,45,2024-10-20
+E397,Employee_397,Manager,Consulting,UK,70,2024-02-29
+E398,Employee_398,Analyst,Consulting,India,18,2024-02-13
+E399,Employee_399,Senior Consultant,Consulting,UK,45,2024-10-07
