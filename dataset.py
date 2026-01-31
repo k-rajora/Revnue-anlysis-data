@@ -74,11 +74,20 @@ employees_df.to_csv("employees.csv", index=False)
 # -----------------------------
 # PROJECTS TABLE
 # -----------------------------
+# -----------------------------
+# PROJECTS TABLE (FIXED)
+# -----------------------------
 projects = []
 
 for i in range(NUM_PROJECTS):
-    start = pd.Timestamp("2019-01-01") + pd.to_timedelta(random.randint(0, 1500), unit="D")
-    end = start + pd.to_timedelta(random.randint(120, 360), unit="D")
+    start = pd.Timestamp("2019-01-01") + pd.to_timedelta(
+        random.randint(0, 900), unit="D"
+    )
+
+    # LONG-RUNNING projects (2–4 years)
+    end = start + pd.to_timedelta(
+        random.randint(720, 1440), unit="D"
+    )
 
     projects.append({
         "project_id": f"P{200+i}",
@@ -99,11 +108,6 @@ projects_df.to_csv("projects.csv", index=False)
 
 
 
-
-
-
-
-# -----------------------------
 # TIME ENTRIES TABLE
 # -----------------------------
 
